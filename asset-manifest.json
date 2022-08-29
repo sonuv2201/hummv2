@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hummv2/static/css/main.23a4e1c8.css",
+    "main.js": "/hummv2/static/js/main.e307143c.js",
+    "index.html": "/hummv2/index.html",
+    "main.23a4e1c8.css.map": "/hummv2/static/css/main.23a4e1c8.css.map",
+    "main.e307143c.js.map": "/hummv2/static/js/main.e307143c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a4e1c8.css",
+    "static/js/main.e307143c.js"
+  ]
+}
