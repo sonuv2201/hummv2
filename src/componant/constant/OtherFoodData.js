@@ -1,0 +1,34 @@
+export const OtherFoodData = [
+    {
+        id:1,
+        title:"Burger",
+        image:'./images/temp/burger-01.png',
+        bgColor:''
+    },
+    {
+        id:2,
+        title:"Pizza",
+        image:'./images/temp/pizza.png',
+    },
+    {
+        id:3,
+        title:"Cakes",
+        image:'./images/temp/cackes.png',
+    },
+    {
+        id:4,
+        title:"Tacos",
+        image:'./images/temp/takos.png',
+    },
+    {
+        id:5,
+        title:"Coffee",
+        image:'./images/temp/takos.png',
+    },
+    {
+        id:6,
+        title:"Salad",
+        image:'./images/temp/takos.png',
+    }
+    
+]

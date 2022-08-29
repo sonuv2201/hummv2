@@ -1,0 +1,32 @@
+export const FoodCategoryData = [
+  {
+    id:1,
+    title:"Salad",
+    image:"/images/temp/salad.png",
+    activeImage:"/images/temp/salad-active.png"
+  },
+  {
+    id:2,
+    title:"Breakfast",
+    image:"/images/temp/breakfast.png",
+    activeImage:"/images/temp/breakfast-active.png"
+  },
+  {
+    id:3,
+    title:"Appetizer",
+    image:"/images/temp/appetizer.png",
+    activeImage:"/images/temp/appetizer-active.png"
+  },
+  {
+    id:4,
+    title:"Noodle",
+    image:"/images/temp/noodles.png",
+    activeImage:"/images/temp/noodles-active.png"
+  },
+  {
+    id:5,
+    title:"Lunch",
+    image:"/images/temp/lunch.png",
+    activeImage:"/images/temp/lunch-active.png"
+  }
+]
